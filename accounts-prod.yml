@@ -2,10 +2,11 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related Prod APIs "
+  message: "Welcome to EazyBank accounts related Production APIs "
   contactDetails:
     name: "Vijay Kumar"
     email: "vijayaccounts@gmail.com"
   onCallSupport:
     - (623) 623 623
+
     - (623) 623 624
