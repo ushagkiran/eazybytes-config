@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs "
+  contactDetails:
+    name: "Manitej"
+    email: "manitejaccounts@gmail.com"
+  onCallSupport:
+    - (987) 987 987
+    - (987) 987 988

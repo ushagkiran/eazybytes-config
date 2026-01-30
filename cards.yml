@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to EazyBank cards related local APIs "
+  contactDetails:
+    name: "Usha Kiran"
+    email: "ushacards@gmail.com"
+  onCallSupport:
+    - (456) 456 456
+    - (456) 456 457
